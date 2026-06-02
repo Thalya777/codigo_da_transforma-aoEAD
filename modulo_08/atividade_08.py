@@ -1,5 +1,8 @@
 '''
-ATIVIDADE 08
+
+atividae na contruçao de um codigo que utliza objetos
+
+
 
 '''
 
@@ -15,11 +18,9 @@ class Carro:
 
     
     
-carro1 = Carro("Bugatti", "Chiron", "preto")
+carro1 = Carro("toyota", "supra", "preto")
 carro1.ligar = ("Ligado")
-print(f"Marca: {carro1.Marca}, Modelo: {carro1.Modelo}, Cor: {carro1.cor}, Ligado: {carro1.ligar}")
-
-
+print(f'O carro {carro1.Marca} {carro1.Modelo} de cor {carro1.cor} está {carro1.ligar}')
 
 
 

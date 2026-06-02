@@ -59,9 +59,7 @@ biblioteca_municipal.adicionar_livros(livro2)
 biblioteca_municipal.adicionar_livros(livro3)
 biblioteca_municipal.adicionar_livros(livro4)
 
-print(livro3)
-biblioteca_municipal.emprestar_livro("Dom casmurro")
-print(livro3)
-
-
+print(livro2)
+biblioteca_municipal.emprestar_livro("O Principe")
+print(livro2)
 

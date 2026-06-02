@@ -1,0 +1,9 @@
+{
+    "projeto": "Sistema de Armazenamento de Dados",
+    "arquivos": [
+        "informacoes.txt",
+        "informacoes.json",
+        "notas.csv"
+    ],
+    "descricao": "Este sistema armazena informações gerais, dados estruturados e notas de alunos."
+}

@@ -1,0 +1,3 @@
+Copiloto no VS Code
+Este arquivo contém informações gerais sobre o sistema de armazenamento de dados.
+Inclui arquivos .txt, .json e .csv para diferentes tipos de dados.
